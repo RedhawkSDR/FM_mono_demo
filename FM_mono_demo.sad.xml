@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE softwareassembly PUBLIC "-//JTRS//DTD SCA V2.2.2 SAD//EN" "softwareassembly.dtd">
-<softwareassembly id="DCE:1525ddd2-c6d6-46ed-bce3-e5313f5afcdf" name="FM_mono_demo">
+<softwareassembly id="DCE:1525ddd2-c6d6-46ed-bce3-e5313f5afcdf" name="FM_mono_demo" version="1.0.0">
   <componentfiles>
     <componentfile id="TuneFilterDecimate_95a97531-8b9a-4ee4-af1f-8eec61810e37" type="SPD">
       <localfile name="/components/TuneFilterDecimate/TuneFilterDecimate.spd.xml"/>
@@ -159,7 +159,7 @@
     <connectinterface>
       <usesport>
         <usesidentifier>dataFloat_out</usesidentifier>
-        <deviceusedbyapplication usesrefid="DCE:5a09e71b-cb01-4f96-a3f2-f474fda11fd7"/>
+        <deviceusedbyapplication usesrefid="UsesFrontendTuner_1"/>
       </usesport>
       <providesport>
         <providesidentifier>dataFloat_in</providesidentifier>
@@ -167,8 +167,18 @@
       </providesport>
     </connectinterface>
   </connections>
+  <externalports>
+    <port externalname="tunerFloat_in">
+      <providesidentifier>dataFloat_in</providesidentifier>
+      <componentinstantiationref refid="TuneFilterDecimate_1"/>
+    </port>
+    <port externalname="audioFloat_out">
+      <usesidentifier>dataFloat_out</usesidentifier>
+      <componentinstantiationref refid="ArbitraryRateResampler_1"/>
+    </port>
+  </externalports>
   <usesdevicedependencies>
-    <usesdevice id="DCE:5a09e71b-cb01-4f96-a3f2-f474fda11fd7" type="usesFEIdataFloatDevice">
+    <usesdevice id="UsesFrontendTuner_1">
       <propertyref refid="DCE:cdc5ee18-7ceb-4ae6-bf4c-31f983179b4d" value="FRONTEND::TUNER"/>
     </usesdevice>
   </usesdevicedependencies>
