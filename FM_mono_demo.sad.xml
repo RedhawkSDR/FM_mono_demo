@@ -156,16 +156,6 @@
         <componentinstantiationref refid="fastfilter_1"/>
       </providesport>
     </connectinterface>
-    <connectinterface>
-      <usesport>
-        <usesidentifier>dataFloat_out</usesidentifier>
-        <deviceusedbyapplication usesrefid="UsesFrontendTuner_1"/>
-      </usesport>
-      <providesport>
-        <providesidentifier>dataFloat_in</providesidentifier>
-        <componentinstantiationref refid="TuneFilterDecimate_1"/>
-      </providesport>
-    </connectinterface>
   </connections>
   <externalports>
     <port externalname="tunerFloat_in">
@@ -177,9 +167,4 @@
       <componentinstantiationref refid="ArbitraryRateResampler_1"/>
     </port>
   </externalports>
-  <usesdevicedependencies>
-    <usesdevice id="UsesFrontendTuner_1">
-      <propertyref refid="DCE:cdc5ee18-7ceb-4ae6-bf4c-31f983179b4d" value="FRONTEND::TUNER"/>
-    </usesdevice>
-  </usesdevicedependencies>
 </softwareassembly>
