@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE softwareassembly PUBLIC "-//JTRS//DTD SCA V2.2.2 SAD//EN" "softwareassembly.dtd">
-<softwareassembly id="DCE:1525ddd2-c6d6-46ed-bce3-e5313f5afcdf" name="FM_mono_demo" version="1.0.0">
+<softwareassembly id="DCE:4ab8b652-1a25-11e5-b285-3417ebc4aab5" name="rh.FM_mono_demo" version="1.0.0">
   <componentfiles>
     <componentfile id="TuneFilterDecimate_95a97531-8b9a-4ee4-af1f-8eec61810e37" type="SPD">
-      <localfile name="/components/TuneFilterDecimate/TuneFilterDecimate.spd.xml"/>
+      <localfile name="/components/rh/TuneFilterDecimate/TuneFilterDecimate.spd.xml"/>
     </componentfile>
     <componentfile id="psd_ffe043d1-81dc-4ecf-8d4c-027597956b05" type="SPD">
-      <localfile name="/components/psd/psd.spd.xml"/>
+      <localfile name="/components/rh/psd/psd.spd.xml"/>
     </componentfile>
     <componentfile id="fastfilter_3be7b283-5946-4ab1-a13a-786b4583bad1" type="SPD">
-      <localfile name="/components/fastfilter/fastfilter.spd.xml"/>
+      <localfile name="/components/rh/fastfilter/fastfilter.spd.xml"/>
     </componentfile>
     <componentfile id="ArbitraryRateResampler_4dc03247-5804-4f8b-8e01-4aa1d8e8e51e" type="SPD">
-      <localfile name="/components/ArbitraryRateResampler/ArbitraryRateResampler.spd.xml"/>
+      <localfile name="/components/rh/ArbitraryRateResampler/ArbitraryRateResampler.spd.xml"/>
     </componentfile>
     <componentfile id="AmFmPmBasebandDemod_2694bd80-14d9-4172-8d3d-497d5eb18ab0" type="SPD">
-      <localfile name="/components/AmFmPmBasebandDemod/AmFmPmBasebandDemod.spd.xml"/>
+      <localfile name="/components/rh/AmFmPmBasebandDemod/AmFmPmBasebandDemod.spd.xml"/>
     </componentfile>
   </componentfiles>
   <partitioning>

@@ -7,17 +7,17 @@
 %define _prefix %{_sdrroot}
 Prefix: %{_prefix}
 
-Name: FM_mono_demo
-Summary: Waveform FM_mono_demo
+Name: rh.FM_mono_demo
+Summary: Waveform rh.FM_mono_demo
 Version: 1.0.0
 Release: 1
 License: None
 Group: REDHAWK/Waveforms
 Source: %{name}-%{version}.tar.gz
 # Require the controller whose SPD is referenced
-Requires: TuneFilterDecimate
+Requires: rh.TuneFilterDecimate
 # Require each referenced component
-Requires: TuneFilterDecimate psd fastfilter ArbitraryRateResampler AmFmPmBasebandDemod
+Requires: rh.TuneFilterDecimate rh.psd rh.fastfilter rh.ArbitraryRateResampler rh.AmFmPmBasebandDemod
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}
 
