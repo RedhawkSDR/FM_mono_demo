@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE softwareassembly PUBLIC "-//JTRS//DTD SCA V2.2.2 SAD//EN" "softwareassembly.dtd">
 <softwareassembly id="DCE:4ab8b652-1a25-11e5-b285-3417ebc4aab5" name="rh.FM_mono_demo" version="1.0.0">
   <componentfiles>

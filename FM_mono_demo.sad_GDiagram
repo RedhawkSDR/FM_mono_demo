@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pi:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:al="http://eclipse.org/graphiti/mm/algorithms" xmlns:ext="http://www.redhawk.gov/model/rhsadgext/1.0.0" xmlns:pi="http://eclipse.org/graphiti/mm/pictograms" visible="true" gridUnit="10" diagramTypeId="SADDiagram" name="FM_mono_demo.sad_GDiagram" snapToGrid="true" pictogramLinks="//@children.0/@link //@children.0/@children.1/@link //@children.0/@children.1/@anchors.0/@link //@children.0/@children.2/@link //@children.0/@children.2/@children.0/@link //@children.0/@children.2/@children.0/@children.0/@link //@children.0/@children.2/@children.0/@children.0/@anchors.0/@link //@children.0/@children.3/@link //@children.0/@children.3/@children.0/@link //@children.0/@children.3/@children.0/@children.0/@link //@children.0/@children.3/@children.0/@children.0/@anchors.0/@link //@children.0/@children.0/@children.0/@link //@children.1/@link //@children.1/@children.1/@link //@children.1/@children.1/@anchors.0/@link //@children.1/@children.2/@link //@children.1/@children.2/@children.0/@link //@children.1/@children.2/@children.0/@children.0/@link //@children.1/@children.2/@children.0/@children.0/@anchors.0/@link //@children.1/@children.3/@link //@children.1/@children.3/@children.0/@link //@children.1/@children.3/@children.0/@children.0/@link //@children.1/@children.3/@children.0/@children.0/@anchors.0/@link //@children.1/@children.3/@children.1/@link //@children.1/@children.3/@children.1/@children.0/@link //@children.1/@children.3/@children.1/@children.0/@anchors.0/@link //@children.2/@link //@children.2/@children.1/@link //@children.2/@children.1/@anchors.0/@link //@children.2/@children.2/@link //@children.2/@children.2/@children.0/@link //@children.2/@children.2/@children.0/@children.0/@link //@children.2/@children.2/@children.0/@children.0/@anchors.0/@link //@children.2/@children.3/@link //@children.2/@children.3/@children.0/@link //@children.2/@children.3/@children.0/@children.0/@link //@children.2/@children.3/@children.0/@children.0/@anchors.0/@link //@children.2/@children.3/@children.1/@link //@children.2/@children.3/@children.1/@children.0/@link //@children.2/@children.3/@children.1/@children.0/@anchors.0/@link //@children.3/@link //@children.3/@children.1/@link //@children.3/@children.1/@anchors.0/@link //@children.3/@children.2/@link //@children.3/@children.2/@children.0/@link //@children.3/@children.2/@children.0/@children.0/@link //@children.3/@children.2/@children.0/@children.0/@anchors.0/@link //@children.3/@children.3/@link //@children.3/@children.3/@children.0/@link //@children.3/@children.3/@children.0/@children.0/@link //@children.3/@children.3/@children.0/@children.0/@anchors.0/@link //@children.4/@link //@children.4/@children.1/@link //@children.4/@children.1/@anchors.0/@link //@children.4/@children.2/@link //@children.4/@children.2/@children.0/@link //@children.4/@children.2/@children.0/@children.0/@link //@children.4/@children.2/@children.0/@children.0/@anchors.0/@link //@children.4/@children.3/@link //@children.4/@children.3/@children.0/@link //@children.4/@children.3/@children.0/@children.0/@link //@children.4/@children.3/@children.0/@children.0/@anchors.0/@link //@children.5/@link //@children.5/@children.1/@link //@children.5/@children.1/@anchors.0/@link //@children.5/@children.2/@link //@children.5/@children.2/@children.0/@link //@children.5/@children.2/@children.0/@children.0/@link //@children.5/@children.2/@children.0/@children.0/@anchors.0/@link //@children.5/@children.3/@link //@children.5/@children.3/@children.0/@link //@children.5/@children.3/@children.0/@children.0/@link //@children.5/@children.3/@children.0/@children.0/@anchors.0/@link //@children.5/@children.3/@children.1/@link //@children.5/@children.3/@children.1/@children.0/@link //@children.5/@children.3/@children.1/@children.0/@anchors.0/@link //@children.5/@children.3/@children.2/@link //@children.5/@children.3/@children.2/@children.0/@link //@children.5/@children.3/@children.2/@children.0/@anchors.0/@link //@connections.0/@link //@connections.1/@link //@connections.2/@link //@connections.3/@link //@connections.4/@link" version="0.12.0">
+  <properties key="DiagramContext" value="design"/>
+  <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.1" foreground="//@colors.0" lineWidth="1" transparency="0.0" width="1000" height="1000"/>
+  <link>
+    <businessObjects href="FM_mono_demo.sad.xml#DCE:4ab8b652-1a25-11e5-b285-3417ebc4aab5"/>
+  </link>
+  <children xsi:type="ext:ComponentShape" visible="true" active="true" connectionMap="ACED0005737200256A6176612E7574696C2E436F6C6C656374696F6E732453796E6368726F6E697A65644D61701B73F9094B4B397B0300024C00016D74000F4C6A6176612F7574696C2F4D61703B4C00056D757465787400124C6A6176612F6C616E672F4F626A6563743B7870737200116A6176612E7574696C2E486173684D61700507DAC1C31660D103000246000A6C6F6164466163746F724900097468726573686F6C6478703F40000000000010770800000010000000007871007E000378" hasPortsContainerShape="true">
+    <properties key="GAType" value="outerContainerShape"/>
+    <graphicsAlgorithm xsi:type="al:RoundedRectangle" lineWidth="1" transparency="0.5" width="278" height="90" x="19" y="155" style="//@styles.0" cornerHeight="5" cornerWidth="5">
+      <properties key="GAType" value="outerRoundedRectangle"/>
+      <graphicsAlgorithmChildren xsi:type="al:Image" lineWidth="1" transparency="0.0" width="16" height="16" x="20" id="gov.redhawk.ide.graphiti.sad.ui.diagram.providers.imageProvider.componentPlacement" stretchH="false" stretchV="false" proportional="false">
+        <properties key="GAType" value="outerRoundedRectangleImage"/>
+      </graphicsAlgorithmChildren>
+      <graphicsAlgorithmChildren xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="238" height="20" x="40" style="//@styles.1" value="rh.TuneFilterDecimate">
+        <properties key="GAType" value="outerRoundedRectangleText"/>
+      </graphicsAlgorithmChildren>
+    </graphicsAlgorithm>
+    <link>
+      <businessObjects href="FM_mono_demo.sad.xml#TuneFilterDecimate_1"/>
+      <businessObjects href="FM_mono_demo.sad.xml#DCE:4ab8b652-1a25-11e5-b285-3417ebc4aab5"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@externalPorts"/>
+    </link>
+    <children xsi:type="pi:ContainerShape" visible="true">
+      <properties key="GAType" value="innerContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:RoundedRectangle" lineWidth="1" transparency="0.0" width="243" height="70" x="20" y="20" style="//@styles.2" cornerHeight="5" cornerWidth="5">
+        <properties key="GAType" value="innerRoundedRectangle"/>
+        <graphicsAlgorithmChildren xsi:type="al:Image" lineWidth="1" transparency="0.0" width="16" height="16" x="33" y="8" id="gov.redhawk.ide.graphiti.sad.ui.diagram.providers.imageProvider.componentInstance" stretchH="false" stretchV="false" proportional="false">
+          <properties key="GAType" value="innerRoundedRectangleImage"/>
+        </graphicsAlgorithmChildren>
+        <graphicsAlgorithmChildren xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="166" height="18" x="54" y="8" style="//@styles.3" value="TuneFilterDecimate_1">
+          <properties key="GAType" value="innerRoundedRectangleText"/>
+        </graphicsAlgorithmChildren>
+        <graphicsAlgorithmChildren xsi:type="al:Polyline" background="//@colors.2" foreground="//@colors.2" lineWidth="1" filled="false" transparency="0.0">
+          <properties key="GAType" value="innerRoundedRectangleLine"/>
+          <points y="28"/>
+          <points x="243" y="28"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <properties key="ShapeType" value="startOrderEllipseShape"/>
+        <graphicsAlgorithm xsi:type="al:Ellipse" lineWidth="1" transparency="0.0" width="17" height="17" x="221" y="5" style="//@styles.9">
+          <properties key="GAType" value="startOrderEllipse"/>
+        </graphicsAlgorithm>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@assemblyController"/>
+        </link>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="17" height="17" x="5" style="//@styles.10" value="0">
+            <properties key="GAType" value="startOrderText"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="GAType" value="interfaceContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.99" width="20" height="10" y="25"/>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@interfaceStub"/>
+      </link>
+      <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.0/@children.1/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.99" width="20" height="10" y="-5"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@interfaceStub"/>
+        </link>
+        <location y="7"/>
+      </anchors>
+      <children visible="true" active="true">
+        <properties key="GAType" value="interfaceEllipseShape"/>
+        <graphicsAlgorithm xsi:type="al:Ellipse" lineWidth="1" transparency="0.0" width="10" height="10" style="//@styles.4"/>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="10" height="1" x="10" y="5" style="//@styles.5"/>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="ShapeType" value="providesPortsContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="90" height="20" x="5" y="60">
+        <properties key="GAType" value="providesPortsRectangle"/>
+      </graphicsAlgorithm>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@provides.0"/>
+      </link>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="providesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="90" height="15"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@provides.0"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="providesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" style="//@styles.6"/>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@provides.0"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.0/@children.2/@children.0/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" y="-7" style="//@styles.7">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@provides.0"/>
+              <businessObjects href="FM_mono_demo.sad.xml#//@externalPorts/@port.0"/>
+            </link>
+            <location y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="525" height="20" x="20" style="//@styles.6" value="dataFloat_in">
+            <properties key="GAType" value="GA_PROVIDES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="ShapeType" value="usesPortsContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="115" height="20" x="163" y="60">
+        <properties key="GAType" value="usesPortsRectangle"/>
+      </graphicsAlgorithm>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@uses.0"/>
+      </link>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="usesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="110" height="15" x="5"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@uses.0"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="usesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="95" style="//@styles.8">
+            <properties key="GAType" value="usesPortRectangle"/>
+          </graphicsAlgorithm>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@uses.0"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" outgoingConnections="//@connections.0 //@connections.2" referencedGraphicsAlgorithm="//@children.0/@children.3/@children.0/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="-15" y="-7" style="//@styles.8">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@uses.0"/>
+            </link>
+            <location x="15" y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="90" height="20" style="//@styles.8" horizontalAlignment="ALIGNMENT_RIGHT" value="dataFloat_out">
+            <properties key="GAType" value="GA_USES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+  </children>
+  <children xsi:type="ext:ComponentShape" visible="true" active="true" connectionMap="ACED0005737200256A6176612E7574696C2E436F6C6C656374696F6E732453796E6368726F6E697A65644D61701B73F9094B4B397B0300024C00016D74000F4C6A6176612F7574696C2F4D61703B4C00056D757465787400124C6A6176612F6C616E672F4F626A6563743B7870737200116A6176612E7574696C2E486173684D61700507DAC1C31660D103000246000A6C6F6164466163746F724900097468726573686F6C6478703F40000000000010770800000010000000007871007E000378" hasPortsContainerShape="true">
+    <properties key="GAType" value="outerContainerShape"/>
+    <graphicsAlgorithm xsi:type="al:RoundedRectangle" lineWidth="1" transparency="0.5" width="245" height="110" x="388" y="292" style="//@styles.0" cornerHeight="5" cornerWidth="5">
+      <properties key="GAType" value="outerRoundedRectangle"/>
+      <graphicsAlgorithmChildren xsi:type="al:Image" lineWidth="1" transparency="0.0" width="16" height="16" x="20" id="gov.redhawk.ide.graphiti.sad.ui.diagram.providers.imageProvider.componentPlacement" stretchH="false" stretchV="false" proportional="false">
+        <properties key="GAType" value="outerRoundedRectangleImage"/>
+      </graphicsAlgorithmChildren>
+      <graphicsAlgorithmChildren xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="205" height="20" x="40" style="//@styles.1" value="rh.psd">
+        <properties key="GAType" value="outerRoundedRectangleText"/>
+      </graphicsAlgorithmChildren>
+    </graphicsAlgorithm>
+    <link>
+      <businessObjects href="FM_mono_demo.sad.xml#narrowband_psd"/>
+      <businessObjects href="FM_mono_demo.sad.xml#DCE:4ab8b652-1a25-11e5-b285-3417ebc4aab5"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@externalPorts"/>
+    </link>
+    <children xsi:type="pi:ContainerShape" visible="true">
+      <properties key="GAType" value="innerContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:RoundedRectangle" lineWidth="1" transparency="0.0" width="210" height="90" x="20" y="20" style="//@styles.2" cornerHeight="5" cornerWidth="5">
+        <properties key="GAType" value="innerRoundedRectangle"/>
+        <graphicsAlgorithmChildren xsi:type="al:Image" lineWidth="1" transparency="0.0" width="16" height="16" x="34" y="8" id="gov.redhawk.ide.graphiti.sad.ui.diagram.providers.imageProvider.componentInstance" stretchH="false" stretchV="false" proportional="false">
+          <properties key="GAType" value="innerRoundedRectangleImage"/>
+        </graphicsAlgorithmChildren>
+        <graphicsAlgorithmChildren xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="130" height="18" x="55" y="8" style="//@styles.3" value="narrowband_psd">
+          <properties key="GAType" value="innerRoundedRectangleText"/>
+        </graphicsAlgorithmChildren>
+        <graphicsAlgorithmChildren xsi:type="al:Polyline" background="//@colors.2" foreground="//@colors.2" lineWidth="1" filled="false" transparency="0.0">
+          <properties key="GAType" value="innerRoundedRectangleLine"/>
+          <points y="28"/>
+          <points x="210" y="28"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <properties key="ShapeType" value="startOrderEllipseShape"/>
+        <graphicsAlgorithm xsi:type="al:Ellipse" lineWidth="1" transparency="0.0" width="17" height="17" x="188" y="5" style="//@styles.12">
+          <properties key="GAType" value="startOrderEllipse"/>
+        </graphicsAlgorithm>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="17" height="17" x="5" style="//@styles.10" value="4">
+            <properties key="GAType" value="startOrderText"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="GAType" value="interfaceContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.99" width="20" height="10" y="25"/>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@interfaceStub"/>
+      </link>
+      <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.1/@children.1/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.99" width="20" height="10" y="-5"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@interfaceStub"/>
+        </link>
+        <location y="7"/>
+      </anchors>
+      <children visible="true" active="true">
+        <properties key="GAType" value="interfaceEllipseShape"/>
+        <graphicsAlgorithm xsi:type="al:Ellipse" lineWidth="1" transparency="0.0" width="10" height="10" style="//@styles.4"/>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="10" height="1" x="10" y="5" style="//@styles.5"/>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="ShapeType" value="providesPortsContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="90" height="20" x="5" y="60">
+        <properties key="GAType" value="providesPortsRectangle"/>
+      </graphicsAlgorithm>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@provides.0"/>
+      </link>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="providesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="90" height="15"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@provides.0"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="providesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" style="//@styles.6"/>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@provides.0"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" incomingConnections="//@connections.0" referencedGraphicsAlgorithm="//@children.1/@children.2/@children.0/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" y="-7" style="//@styles.6">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@provides.0"/>
+            </link>
+            <location y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="525" height="20" x="20" style="//@styles.6" value="dataFloat_in">
+            <properties key="GAType" value="GA_PROVIDES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="ShapeType" value="usesPortsContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="140" height="40" x="105" y="60">
+        <properties key="GAType" value="usesPortsRectangle"/>
+      </graphicsAlgorithm>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@uses.0"/>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@uses.1"/>
+      </link>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="usesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="135" height="15" x="5"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@uses.0"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="usesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="120" style="//@styles.8">
+            <properties key="GAType" value="usesPortRectangle"/>
+          </graphicsAlgorithm>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@uses.0"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.1/@children.3/@children.0/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="-15" y="-7" style="//@styles.8">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@uses.0"/>
+            </link>
+            <location x="15" y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="115" height="20" style="//@styles.8" horizontalAlignment="ALIGNMENT_RIGHT" value="psd_dataFloat_out">
+            <properties key="GAType" value="GA_USES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="usesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="135" height="15" x="5" y="20"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@uses.1"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="usesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="120" style="//@styles.8">
+            <properties key="GAType" value="usesPortRectangle"/>
+          </graphicsAlgorithm>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@uses.1"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.1/@children.3/@children.1/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="-15" y="-7" style="//@styles.8">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@uses.1"/>
+            </link>
+            <location x="15" y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="115" height="20" style="//@styles.8" horizontalAlignment="ALIGNMENT_RIGHT" value="fft_dataFloat_out">
+            <properties key="GAType" value="GA_USES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+  </children>
+  <children xsi:type="ext:ComponentShape" visible="true" active="true" connectionMap="ACED0005737200256A6176612E7574696C2E436F6C6C656374696F6E732453796E6368726F6E697A65644D61701B73F9094B4B397B0300024C00016D74000F4C6A6176612F7574696C2F4D61703B4C00056D757465787400124C6A6176612F6C616E672F4F626A6563743B7870737200116A6176612E7574696C2E486173684D61700507DAC1C31660D103000246000A6C6F6164466163746F724900097468726573686F6C6478703F40000000000010770800000010000000007871007E000378" hasPortsContainerShape="true">
+    <properties key="GAType" value="outerContainerShape"/>
+    <graphicsAlgorithm xsi:type="al:RoundedRectangle" lineWidth="1" transparency="0.5" width="245" height="110" x="758" y="155" style="//@styles.0" cornerHeight="5" cornerWidth="5">
+      <properties key="GAType" value="outerRoundedRectangle"/>
+      <graphicsAlgorithmChildren xsi:type="al:Image" lineWidth="1" transparency="0.0" width="16" height="16" x="20" id="gov.redhawk.ide.graphiti.sad.ui.diagram.providers.imageProvider.componentPlacement" stretchH="false" stretchV="false" proportional="false">
+        <properties key="GAType" value="outerRoundedRectangleImage"/>
+      </graphicsAlgorithmChildren>
+      <graphicsAlgorithmChildren xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="205" height="20" x="40" style="//@styles.1" value="rh.psd">
+        <properties key="GAType" value="outerRoundedRectangleText"/>
+      </graphicsAlgorithmChildren>
+    </graphicsAlgorithm>
+    <link>
+      <businessObjects href="FM_mono_demo.sad.xml#fm_psd"/>
+      <businessObjects href="FM_mono_demo.sad.xml#DCE:4ab8b652-1a25-11e5-b285-3417ebc4aab5"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@externalPorts"/>
+    </link>
+    <children xsi:type="pi:ContainerShape" visible="true">
+      <properties key="GAType" value="innerContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:RoundedRectangle" lineWidth="1" transparency="0.0" width="210" height="90" x="20" y="20" style="//@styles.2" cornerHeight="5" cornerWidth="5">
+        <properties key="GAType" value="innerRoundedRectangle"/>
+        <graphicsAlgorithmChildren xsi:type="al:Image" lineWidth="1" transparency="0.0" width="16" height="16" x="68" y="8" id="gov.redhawk.ide.graphiti.sad.ui.diagram.providers.imageProvider.componentInstance" stretchH="false" stretchV="false" proportional="false">
+          <properties key="GAType" value="innerRoundedRectangleImage"/>
+        </graphicsAlgorithmChildren>
+        <graphicsAlgorithmChildren xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="62" height="18" x="89" y="8" style="//@styles.3" value="fm_psd">
+          <properties key="GAType" value="innerRoundedRectangleText"/>
+        </graphicsAlgorithmChildren>
+        <graphicsAlgorithmChildren xsi:type="al:Polyline" background="//@colors.2" foreground="//@colors.2" lineWidth="1" filled="false" transparency="0.0">
+          <properties key="GAType" value="innerRoundedRectangleLine"/>
+          <points y="28"/>
+          <points x="210" y="28"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <properties key="ShapeType" value="startOrderEllipseShape"/>
+        <graphicsAlgorithm xsi:type="al:Ellipse" lineWidth="1" transparency="0.0" width="17" height="17" x="188" y="5" style="//@styles.12">
+          <properties key="GAType" value="startOrderEllipse"/>
+        </graphicsAlgorithm>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="17" height="17" x="5" style="//@styles.10" value="5">
+            <properties key="GAType" value="startOrderText"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="GAType" value="interfaceContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.99" width="20" height="10" y="25"/>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@interfaceStub"/>
+      </link>
+      <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.2/@children.1/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.99" width="20" height="10" y="-5"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@interfaceStub"/>
+        </link>
+        <location y="7"/>
+      </anchors>
+      <children visible="true" active="true">
+        <properties key="GAType" value="interfaceEllipseShape"/>
+        <graphicsAlgorithm xsi:type="al:Ellipse" lineWidth="1" transparency="0.0" width="10" height="10" style="//@styles.4"/>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="10" height="1" x="10" y="5" style="//@styles.5"/>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="ShapeType" value="providesPortsContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="90" height="20" x="5" y="60">
+        <properties key="GAType" value="providesPortsRectangle"/>
+      </graphicsAlgorithm>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@provides.0"/>
+      </link>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="providesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="90" height="15"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@provides.0"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="providesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" style="//@styles.6"/>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@provides.0"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" incomingConnections="//@connections.3" referencedGraphicsAlgorithm="//@children.2/@children.2/@children.0/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" y="-7" style="//@styles.6">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@provides.0"/>
+            </link>
+            <location y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="525" height="20" x="20" style="//@styles.6" value="dataFloat_in">
+            <properties key="GAType" value="GA_PROVIDES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="ShapeType" value="usesPortsContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="140" height="40" x="105" y="60">
+        <properties key="GAType" value="usesPortsRectangle"/>
+      </graphicsAlgorithm>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@uses.0"/>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@uses.1"/>
+      </link>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="usesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="135" height="15" x="5"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@uses.0"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="usesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="120" style="//@styles.8">
+            <properties key="GAType" value="usesPortRectangle"/>
+          </graphicsAlgorithm>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@uses.0"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.2/@children.3/@children.0/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="-15" y="-7" style="//@styles.8">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@uses.0"/>
+            </link>
+            <location x="15" y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="115" height="20" style="//@styles.8" horizontalAlignment="ALIGNMENT_RIGHT" value="psd_dataFloat_out">
+            <properties key="GAType" value="GA_USES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="usesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="135" height="15" x="5" y="20"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@uses.1"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="usesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="120" style="//@styles.8">
+            <properties key="GAType" value="usesPortRectangle"/>
+          </graphicsAlgorithm>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@uses.1"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.2/@children.3/@children.1/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="-15" y="-7" style="//@styles.8">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@uses.1"/>
+            </link>
+            <location x="15" y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="115" height="20" style="//@styles.8" horizontalAlignment="ALIGNMENT_RIGHT" value="fft_dataFloat_out">
+            <properties key="GAType" value="GA_USES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+  </children>
+  <children xsi:type="ext:ComponentShape" visible="true" active="true" connectionMap="ACED0005737200256A6176612E7574696C2E436F6C6C656374696F6E732453796E6368726F6E697A65644D61701B73F9094B4B397B0300024C00016D74000F4C6A6176612F7574696C2F4D61703B4C00056D757465787400124C6A6176612F6C616E672F4F626A6563743B7870737200116A6176612E7574696C2E486173684D61700507DAC1C31660D103000246000A6C6F6164466163746F724900097468726573686F6C6478703F40000000000010770800000010000000007871007E000378" hasPortsContainerShape="true">
+    <properties key="GAType" value="outerContainerShape"/>
+    <graphicsAlgorithm xsi:type="al:RoundedRectangle" lineWidth="1" transparency="0.5" width="220" height="90" x="758" y="19" style="//@styles.0" cornerHeight="5" cornerWidth="5">
+      <properties key="GAType" value="outerRoundedRectangle"/>
+      <graphicsAlgorithmChildren xsi:type="al:Image" lineWidth="1" transparency="0.0" width="16" height="16" x="20" id="gov.redhawk.ide.graphiti.sad.ui.diagram.providers.imageProvider.componentPlacement" stretchH="false" stretchV="false" proportional="false">
+        <properties key="GAType" value="outerRoundedRectangleImage"/>
+      </graphicsAlgorithmChildren>
+      <graphicsAlgorithmChildren xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="180" height="20" x="40" style="//@styles.1" value="rh.fastfilter">
+        <properties key="GAType" value="outerRoundedRectangleText"/>
+      </graphicsAlgorithmChildren>
+    </graphicsAlgorithm>
+    <link>
+      <businessObjects href="FM_mono_demo.sad.xml#fastfilter_1"/>
+      <businessObjects href="FM_mono_demo.sad.xml#DCE:4ab8b652-1a25-11e5-b285-3417ebc4aab5"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@externalPorts"/>
+    </link>
+    <children xsi:type="pi:ContainerShape" visible="true">
+      <properties key="GAType" value="innerContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:RoundedRectangle" lineWidth="1" transparency="0.0" width="185" height="70" x="20" y="20" style="//@styles.2" cornerHeight="5" cornerWidth="5">
+        <properties key="GAType" value="innerRoundedRectangle"/>
+        <graphicsAlgorithmChildren xsi:type="al:Image" lineWidth="1" transparency="0.0" width="16" height="16" x="43" y="8" id="gov.redhawk.ide.graphiti.sad.ui.diagram.providers.imageProvider.componentInstance" stretchH="false" stretchV="false" proportional="false">
+          <properties key="GAType" value="innerRoundedRectangleImage"/>
+        </graphicsAlgorithmChildren>
+        <graphicsAlgorithmChildren xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="88" height="18" x="64" y="8" style="//@styles.3" value="fastfilter_1">
+          <properties key="GAType" value="innerRoundedRectangleText"/>
+        </graphicsAlgorithmChildren>
+        <graphicsAlgorithmChildren xsi:type="al:Polyline" background="//@colors.2" foreground="//@colors.2" lineWidth="1" filled="false" transparency="0.0">
+          <properties key="GAType" value="innerRoundedRectangleLine"/>
+          <points y="28"/>
+          <points x="185" y="28"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <properties key="ShapeType" value="startOrderEllipseShape"/>
+        <graphicsAlgorithm xsi:type="al:Ellipse" lineWidth="1" transparency="0.0" width="17" height="17" x="163" y="5" style="//@styles.12">
+          <properties key="GAType" value="startOrderEllipse"/>
+        </graphicsAlgorithm>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="17" height="17" x="5" style="//@styles.10" value="2">
+            <properties key="GAType" value="startOrderText"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="GAType" value="interfaceContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.99" width="20" height="10" y="25"/>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@interfaceStub"/>
+      </link>
+      <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.3/@children.1/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.99" width="20" height="10" y="-5"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@interfaceStub"/>
+        </link>
+        <location y="7"/>
+      </anchors>
+      <children visible="true" active="true">
+        <properties key="GAType" value="interfaceEllipseShape"/>
+        <graphicsAlgorithm xsi:type="al:Ellipse" lineWidth="1" transparency="0.0" width="10" height="10" style="//@styles.4"/>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="10" height="1" x="10" y="5" style="//@styles.5"/>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="ShapeType" value="providesPortsContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="90" height="20" x="5" y="60">
+        <properties key="GAType" value="providesPortsRectangle"/>
+      </graphicsAlgorithm>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@provides.0"/>
+      </link>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="providesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="90" height="15"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@provides.0"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="providesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" style="//@styles.6"/>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@provides.0"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" incomingConnections="//@connections.4" referencedGraphicsAlgorithm="//@children.3/@children.2/@children.0/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" y="-7" style="//@styles.6">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@provides.0"/>
+            </link>
+            <location y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="525" height="20" x="20" style="//@styles.6" value="dataFloat_in">
+            <properties key="GAType" value="GA_PROVIDES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="ShapeType" value="usesPortsContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="115" height="20" x="105" y="60">
+        <properties key="GAType" value="usesPortsRectangle"/>
+      </graphicsAlgorithm>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@uses.0"/>
+      </link>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="usesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="110" height="15" x="5"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@uses.0"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="usesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="95" style="//@styles.8">
+            <properties key="GAType" value="usesPortRectangle"/>
+          </graphicsAlgorithm>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@uses.0"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" outgoingConnections="//@connections.1" referencedGraphicsAlgorithm="//@children.3/@children.3/@children.0/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="-15" y="-7" style="//@styles.8">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@uses.0"/>
+            </link>
+            <location x="15" y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="90" height="20" style="//@styles.8" horizontalAlignment="ALIGNMENT_RIGHT" value="dataFloat_out">
+            <properties key="GAType" value="GA_USES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+  </children>
+  <children xsi:type="ext:ComponentShape" visible="true" active="true" connectionMap="ACED0005737200256A6176612E7574696C2E436F6C6C656374696F6E732453796E6368726F6E697A65644D61701B73F9094B4B397B0300024C00016D74000F4C6A6176612F7574696C2F4D61703B4C00056D757465787400124C6A6176612F6C616E672F4F626A6563743B7870737200116A6176612E7574696C2E486173684D61700507DAC1C31660D103000246000A6C6F6164466163746F724900097468726573686F6C6478703F40000000000010770800000010000000007871007E000378" hasPortsContainerShape="true">
+    <properties key="GAType" value="outerContainerShape"/>
+    <graphicsAlgorithm xsi:type="al:RoundedRectangle" lineWidth="1" transparency="0.5" width="314" height="90" x="1128" y="19" style="//@styles.0" cornerHeight="5" cornerWidth="5">
+      <properties key="GAType" value="outerRoundedRectangle"/>
+      <graphicsAlgorithmChildren xsi:type="al:Image" lineWidth="1" transparency="0.0" width="16" height="16" x="20" id="gov.redhawk.ide.graphiti.sad.ui.diagram.providers.imageProvider.componentPlacement" stretchH="false" stretchV="false" proportional="false">
+        <properties key="GAType" value="outerRoundedRectangleImage"/>
+      </graphicsAlgorithmChildren>
+      <graphicsAlgorithmChildren xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="274" height="20" x="40" style="//@styles.1" value="rh.ArbitraryRateResampler">
+        <properties key="GAType" value="outerRoundedRectangleText"/>
+      </graphicsAlgorithmChildren>
+    </graphicsAlgorithm>
+    <link>
+      <businessObjects href="FM_mono_demo.sad.xml#ArbitraryRateResampler_1"/>
+      <businessObjects href="FM_mono_demo.sad.xml#DCE:4ab8b652-1a25-11e5-b285-3417ebc4aab5"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@externalPorts"/>
+    </link>
+    <children xsi:type="pi:ContainerShape" visible="true">
+      <properties key="GAType" value="innerContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:RoundedRectangle" lineWidth="1" transparency="0.0" width="279" height="70" x="20" y="20" style="//@styles.2" cornerHeight="5" cornerWidth="5">
+        <properties key="GAType" value="innerRoundedRectangle"/>
+        <graphicsAlgorithmChildren xsi:type="al:Image" lineWidth="1" transparency="0.0" width="16" height="16" x="33" y="8" id="gov.redhawk.ide.graphiti.sad.ui.diagram.providers.imageProvider.componentInstance" stretchH="false" stretchV="false" proportional="false">
+          <properties key="GAType" value="innerRoundedRectangleImage"/>
+        </graphicsAlgorithmChildren>
+        <graphicsAlgorithmChildren xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="202" height="18" x="54" y="8" style="//@styles.3" value="ArbitraryRateResampler_1">
+          <properties key="GAType" value="innerRoundedRectangleText"/>
+        </graphicsAlgorithmChildren>
+        <graphicsAlgorithmChildren xsi:type="al:Polyline" background="//@colors.2" foreground="//@colors.2" lineWidth="1" filled="false" transparency="0.0">
+          <properties key="GAType" value="innerRoundedRectangleLine"/>
+          <points y="28"/>
+          <points x="279" y="28"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <properties key="ShapeType" value="startOrderEllipseShape"/>
+        <graphicsAlgorithm xsi:type="al:Ellipse" lineWidth="1" transparency="0.0" width="17" height="17" x="257" y="5" style="//@styles.12">
+          <properties key="GAType" value="startOrderEllipse"/>
+        </graphicsAlgorithm>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="17" height="17" x="5" style="//@styles.10" value="3">
+            <properties key="GAType" value="startOrderText"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="GAType" value="interfaceContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.99" width="20" height="10" y="25"/>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@interfaceStub"/>
+      </link>
+      <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.4/@children.1/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.99" width="20" height="10" y="-5"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@interfaceStub"/>
+        </link>
+        <location y="7"/>
+      </anchors>
+      <children visible="true" active="true">
+        <properties key="GAType" value="interfaceEllipseShape"/>
+        <graphicsAlgorithm xsi:type="al:Ellipse" lineWidth="1" transparency="0.0" width="10" height="10" style="//@styles.4"/>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="10" height="1" x="10" y="5" style="//@styles.5"/>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="ShapeType" value="providesPortsContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="90" height="20" x="5" y="60">
+        <properties key="GAType" value="providesPortsRectangle"/>
+      </graphicsAlgorithm>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@provides.0"/>
+      </link>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="providesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="90" height="15"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@provides.0"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="providesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" style="//@styles.6"/>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@provides.0"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" incomingConnections="//@connections.1" referencedGraphicsAlgorithm="//@children.4/@children.2/@children.0/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" y="-7" style="//@styles.6">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@provides.0"/>
+            </link>
+            <location y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="525" height="20" x="20" style="//@styles.6" value="dataFloat_in">
+            <properties key="GAType" value="GA_PROVIDES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="ShapeType" value="usesPortsContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="115" height="20" x="199" y="60">
+        <properties key="GAType" value="usesPortsRectangle"/>
+      </graphicsAlgorithm>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@uses.0"/>
+      </link>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="usesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="110" height="15" x="5"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@uses.0"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="usesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="95" style="//@styles.8">
+            <properties key="GAType" value="usesPortRectangle"/>
+          </graphicsAlgorithm>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@uses.0"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.4/@children.3/@children.0/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="-15" y="-7" style="//@styles.11">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@uses.0"/>
+              <businessObjects href="FM_mono_demo.sad.xml#//@externalPorts/@port.1"/>
+            </link>
+            <location x="15" y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="90" height="20" style="//@styles.8" horizontalAlignment="ALIGNMENT_RIGHT" value="dataFloat_out">
+            <properties key="GAType" value="GA_USES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+  </children>
+  <children xsi:type="ext:ComponentShape" visible="true" active="true" connectionMap="ACED0005737200256A6176612E7574696C2E436F6C6C656374696F6E732453796E6368726F6E697A65644D61701B73F9094B4B397B0300024C00016D74000F4C6A6176612F7574696C2F4D61703B4C00056D757465787400124C6A6176612F6C616E672F4F626A6563743B7870737200116A6176612E7574696C2E486173684D61700507DAC1C31660D103000246000A6C6F6164466163746F724900097468726573686F6C6478703F40000000000010770800000010000000007871007E000378" hasPortsContainerShape="true">
+    <properties key="GAType" value="outerContainerShape"/>
+    <graphicsAlgorithm xsi:type="al:RoundedRectangle" lineWidth="1" transparency="0.5" width="331" height="130" x="388" y="87" style="//@styles.0" cornerHeight="5" cornerWidth="5">
+      <properties key="GAType" value="outerRoundedRectangle"/>
+      <graphicsAlgorithmChildren xsi:type="al:Image" lineWidth="1" transparency="0.0" width="16" height="16" x="20" id="gov.redhawk.ide.graphiti.sad.ui.diagram.providers.imageProvider.componentPlacement" stretchH="false" stretchV="false" proportional="false">
+        <properties key="GAType" value="outerRoundedRectangleImage"/>
+      </graphicsAlgorithmChildren>
+      <graphicsAlgorithmChildren xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="291" height="20" x="40" style="//@styles.1" value="rh.AmFmPmBasebandDemod">
+        <properties key="GAType" value="outerRoundedRectangleText"/>
+      </graphicsAlgorithmChildren>
+    </graphicsAlgorithm>
+    <link>
+      <businessObjects href="FM_mono_demo.sad.xml#AmFmPmBasebandDemod_1"/>
+      <businessObjects href="FM_mono_demo.sad.xml#DCE:4ab8b652-1a25-11e5-b285-3417ebc4aab5"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@externalPorts"/>
+    </link>
+    <children xsi:type="pi:ContainerShape" visible="true">
+      <properties key="GAType" value="innerContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:RoundedRectangle" lineWidth="1" transparency="0.0" width="296" height="110" x="20" y="20" style="//@styles.2" cornerHeight="5" cornerWidth="5">
+        <properties key="GAType" value="innerRoundedRectangle"/>
+        <graphicsAlgorithmChildren xsi:type="al:Image" lineWidth="1" transparency="0.0" width="16" height="16" x="33" y="8" id="gov.redhawk.ide.graphiti.sad.ui.diagram.providers.imageProvider.componentInstance" stretchH="false" stretchV="false" proportional="false">
+          <properties key="GAType" value="innerRoundedRectangleImage"/>
+        </graphicsAlgorithmChildren>
+        <graphicsAlgorithmChildren xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="219" height="18" x="54" y="8" style="//@styles.3" value="AmFmPmBasebandDemod_1">
+          <properties key="GAType" value="innerRoundedRectangleText"/>
+        </graphicsAlgorithmChildren>
+        <graphicsAlgorithmChildren xsi:type="al:Polyline" background="//@colors.2" foreground="//@colors.2" lineWidth="1" filled="false" transparency="0.0">
+          <properties key="GAType" value="innerRoundedRectangleLine"/>
+          <points y="28"/>
+          <points x="296" y="28"/>
+        </graphicsAlgorithmChildren>
+      </graphicsAlgorithm>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <properties key="ShapeType" value="startOrderEllipseShape"/>
+        <graphicsAlgorithm xsi:type="al:Ellipse" lineWidth="1" transparency="0.0" width="17" height="17" x="274" y="5" style="//@styles.12">
+          <properties key="GAType" value="startOrderEllipse"/>
+        </graphicsAlgorithm>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="17" height="17" x="5" style="//@styles.10" value="1">
+            <properties key="GAType" value="startOrderText"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="GAType" value="interfaceContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.99" width="20" height="10" y="25"/>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@interfaceStub"/>
+      </link>
+      <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.5/@children.1/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.99" width="20" height="10" y="-5"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@interfaceStub"/>
+        </link>
+        <location y="7"/>
+      </anchors>
+      <children visible="true" active="true">
+        <properties key="GAType" value="interfaceEllipseShape"/>
+        <graphicsAlgorithm xsi:type="al:Ellipse" lineWidth="1" transparency="0.0" width="10" height="10" style="//@styles.4"/>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true">
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="10" height="1" x="10" y="5" style="//@styles.5"/>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="ShapeType" value="providesPortsContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="90" height="20" x="5" y="60">
+        <properties key="GAType" value="providesPortsRectangle"/>
+      </graphicsAlgorithm>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@provides.0"/>
+      </link>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="providesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="90" height="15"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@provides.0"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="providesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" style="//@styles.6"/>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@provides.0"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" incomingConnections="//@connections.2" referencedGraphicsAlgorithm="//@children.5/@children.2/@children.0/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" y="-7" style="//@styles.6">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@provides.0"/>
+            </link>
+            <location y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="525" height="20" x="20" style="//@styles.6" value="dataFloat_in">
+            <properties key="GAType" value="GA_PROVIDES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="pi:ContainerShape" visible="true" active="true">
+      <properties key="ShapeType" value="usesPortsContainerShape"/>
+      <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="137" height="60" x="194" y="60">
+        <properties key="GAType" value="usesPortsRectangle"/>
+      </graphicsAlgorithm>
+      <link>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.0"/>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.1"/>
+        <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.2"/>
+      </link>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="usesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="132" height="15" x="5"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.0"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="usesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="117" style="//@styles.8">
+            <properties key="GAType" value="usesPortRectangle"/>
+          </graphicsAlgorithm>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.0"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.5/@children.3/@children.0/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="-15" y="-7" style="//@styles.8">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.0"/>
+            </link>
+            <location x="15" y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="112" height="20" style="//@styles.8" horizontalAlignment="ALIGNMENT_RIGHT" value="pm_dataFloat_out">
+            <properties key="GAType" value="GA_USES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="usesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="132" height="15" x="5" y="20"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.1"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="usesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="117" style="//@styles.8">
+            <properties key="GAType" value="usesPortRectangle"/>
+          </graphicsAlgorithm>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.1"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" outgoingConnections="//@connections.3 //@connections.4" referencedGraphicsAlgorithm="//@children.5/@children.3/@children.1/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="-15" y="-7" style="//@styles.8">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.1"/>
+            </link>
+            <location x="15" y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="112" height="20" style="//@styles.8" horizontalAlignment="ALIGNMENT_RIGHT" value="fm_dataFloat_out">
+            <properties key="GAType" value="GA_USES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+      <children xsi:type="pi:ContainerShape" visible="true" active="true">
+        <properties key="ShapeType" value="usesPortContainerShape"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="1.0" width="132" height="15" x="5" y="40"/>
+        <link>
+          <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.2"/>
+        </link>
+        <children xsi:type="pi:ContainerShape" visible="true" active="true">
+          <properties key="ShapeType" value="usesPortRectangleShape"/>
+          <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="117" style="//@styles.8">
+            <properties key="GAType" value="usesPortRectangle"/>
+          </graphicsAlgorithm>
+          <link>
+            <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.2"/>
+          </link>
+          <anchors xsi:type="pi:FixPointAnchor" visible="true" active="true" referencedGraphicsAlgorithm="//@children.5/@children.3/@children.2/@children.0/@graphicsAlgorithm" useAnchorLocationAsConnectionEndpoint="true">
+            <graphicsAlgorithm xsi:type="al:Rectangle" lineWidth="1" transparency="0.0" width="15" height="15" x="-15" y="-7" style="//@styles.8">
+              <properties key="GAType" value="GA_FIX_POINT_ANCHOR_RECTANGLE"/>
+            </graphicsAlgorithm>
+            <link>
+              <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.2"/>
+            </link>
+            <location x="15" y="7"/>
+          </anchors>
+        </children>
+        <children visible="true">
+          <graphicsAlgorithm xsi:type="al:Text" lineWidth="1" filled="false" transparency="0.0" width="112" height="20" style="//@styles.8" horizontalAlignment="ALIGNMENT_RIGHT" value="am_dataFloat_out">
+            <properties key="GAType" value="GA_USES_PORT_TEXT"/>
+          </graphicsAlgorithm>
+        </children>
+      </children>
+    </children>
+  </children>
+  <styles background="//@colors.3" foreground="//@colors.2" lineWidth="0" lineVisible="false" id="gov.redhawk.style.ComponentOuter" font="//@fonts.0"/>
+  <styles foreground="//@colors.2" lineWidth="2" id="gov.redhawk.style.OuterText" font="//@fonts.1"/>
+  <styles lineWidth="2" id="gov.redhawk.style.ComponentInner">
+    <renderingStyle>
+      <adaptedGradientColoredAreas definedStyleId="blue-white" gradientType="0">
+        <adaptedGradientColoredAreas styleAdaption="0">
+          <gradientColor>
+            <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+              <color red="212" green="231" blue="248"/>
+            </start>
+            <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+              <color red="250" green="251" blue="252"/>
+            </end>
+          </gradientColor>
+        </adaptedGradientColoredAreas>
+        <adaptedGradientColoredAreas styleAdaption="1">
+          <gradientColor>
+            <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+              <color red="129" green="185" blue="234"/>
+            </start>
+            <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+              <color red="170" green="208" blue="242"/>
+            </end>
+          </gradientColor>
+        </adaptedGradientColoredAreas>
+        <adaptedGradientColoredAreas styleAdaption="2">
+          <gradientColor>
+            <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+              <color red="187" green="218" blue="247"/>
+            </start>
+            <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+              <color red="197" green="224" blue="247"/>
+            </end>
+          </gradientColor>
+        </adaptedGradientColoredAreas>
+      </adaptedGradientColoredAreas>
+    </renderingStyle>
+  </styles>
+  <styles foreground="//@colors.2" lineWidth="2" id="gov.redhawk.style.InnerText" font="//@fonts.2"/>
+  <styles background="//@colors.1" lineWidth="1" transparency="0.99" id="gov.redhawk.style.LollipopEllipse"/>
+  <styles background="//@colors.2" id="gov.redhawk.style.LollipopLine"/>
+  <styles background="//@colors.1" foreground="//@colors.2" lineWidth="2" lineVisible="true" id="gov.redhawk.style.ProvidesPort" font="//@fonts.0"/>
+  <styles background="//@colors.4" foreground="//@colors.2" lineWidth="2" lineVisible="true" id="gov.redhawk.style.ExternalProvidesPort" font="//@fonts.0"/>
+  <styles background="//@colors.2" foreground="//@colors.2" lineWidth="2" lineVisible="true" id="gov.redhawk.style.UsesPort" font="//@fonts.0"/>
+  <styles background="//@colors.5" lineWidth="1" transparency="0.99" id="gov.redhawk.style.StartOrderAssemblyControllerEllipse"/>
+  <styles background="//@colors.1" foreground="//@colors.2" id="gov.redhawk.style.StartOrderText" font="//@fonts.0"/>
+  <styles background="//@colors.4" foreground="//@colors.2" lineWidth="2" lineVisible="true" id="gov.redhawk.style.UsesExternalPort" font="//@fonts.0"/>
+  <styles background="//@colors.1" lineWidth="1" transparency="0.99" id="gov.redhawk.style.StartOrderEllipse"/>
+  <connections xsi:type="pi:FreeFormConnection" visible="true" active="true" start="//@children.0/@children.3/@children.0/@children.0/@anchors.0" end="//@children.1/@children.2/@children.0/@children.0/@anchors.0">
+    <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false" transparency="0.0"/>
+    <link>
+      <businessObjects href="FM_mono_demo.sad.xml#connection_2"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@uses.0"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.1/@componentInstantiation.0/@provides.0"/>
+    </link>
+    <connectionDecorators visible="true" locationRelative="true" location="1.0">
+      <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false" transparency="0.0">
+        <points x="-15" y="10"/>
+        <points/>
+        <points x="-15" y="-10"/>
+      </graphicsAlgorithm>
+    </connectionDecorators>
+  </connections>
+  <connections xsi:type="pi:FreeFormConnection" visible="true" active="true" start="//@children.3/@children.3/@children.0/@children.0/@anchors.0" end="//@children.4/@children.2/@children.0/@children.0/@anchors.0">
+    <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false" transparency="0.0"/>
+    <link>
+      <businessObjects href="FM_mono_demo.sad.xml#connection_5"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@uses.0"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.4/@componentInstantiation.0/@provides.0"/>
+    </link>
+    <connectionDecorators visible="true" locationRelative="true" location="1.0">
+      <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false" transparency="0.0">
+        <points x="-15" y="10"/>
+        <points/>
+        <points x="-15" y="-10"/>
+      </graphicsAlgorithm>
+    </connectionDecorators>
+  </connections>
+  <connections xsi:type="pi:FreeFormConnection" visible="true" active="true" start="//@children.0/@children.3/@children.0/@children.0/@anchors.0" end="//@children.5/@children.2/@children.0/@children.0/@anchors.0">
+    <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false" transparency="0.0"/>
+    <link>
+      <businessObjects href="FM_mono_demo.sad.xml#connection_3"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.0/@componentInstantiation.0/@uses.0"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@provides.0"/>
+    </link>
+    <connectionDecorators visible="true" locationRelative="true" location="1.0">
+      <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false" transparency="0.0">
+        <points x="-15" y="10"/>
+        <points/>
+        <points x="-15" y="-10"/>
+      </graphicsAlgorithm>
+    </connectionDecorators>
+  </connections>
+  <connections xsi:type="pi:FreeFormConnection" visible="true" active="true" start="//@children.5/@children.3/@children.1/@children.0/@anchors.0" end="//@children.2/@children.2/@children.0/@children.0/@anchors.0">
+    <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false" transparency="0.0"/>
+    <link>
+      <businessObjects href="FM_mono_demo.sad.xml#connection_4"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.1"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.2/@componentInstantiation.0/@provides.0"/>
+    </link>
+    <connectionDecorators visible="true" locationRelative="true" location="1.0">
+      <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false" transparency="0.0">
+        <points x="-15" y="10"/>
+        <points/>
+        <points x="-15" y="-10"/>
+      </graphicsAlgorithm>
+    </connectionDecorators>
+  </connections>
+  <connections xsi:type="pi:FreeFormConnection" visible="true" active="true" start="//@children.5/@children.3/@children.1/@children.0/@anchors.0" end="//@children.3/@children.2/@children.0/@children.0/@anchors.0">
+    <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false" transparency="0.0"/>
+    <link>
+      <businessObjects href="FM_mono_demo.sad.xml#connection_7"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.5/@componentInstantiation.0/@uses.1"/>
+      <businessObjects href="FM_mono_demo.sad.xml#//@partitioning/@componentPlacement.3/@componentInstantiation.0/@provides.0"/>
+    </link>
+    <connectionDecorators visible="true" locationRelative="true" location="1.0">
+      <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@colors.2" lineWidth="2" filled="false" transparency="0.0">
+        <points x="-15" y="10"/>
+        <points/>
+        <points x="-15" y="-10"/>
+      </graphicsAlgorithm>
+    </connectionDecorators>
+  </connections>
+  <colors red="227" green="238" blue="249"/>
+  <colors red="255" green="255" blue="255"/>
+  <colors/>
+  <colors red="250" green="250" blue="250"/>
+  <colors blue="194"/>
+  <colors red="255" green="218" blue="105"/>
+  <fonts name="Sans" size="8"/>
+  <fonts name="Sans" size="8" bold="true"/>
+  <fonts name="Sans" size="11"/>
+</pi:Diagram>
