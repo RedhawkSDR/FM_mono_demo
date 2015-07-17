@@ -10,7 +10,7 @@ Prefix: %{_prefix}
 Name: rh.FM_mono_demo
 Summary: Waveform rh.FM_mono_demo
 Version: 1.0.0
-Release: 1
+Release: 1%{?dist}
 License: None
 Group: REDHAWK/Waveforms
 Source: %{name}-%{version}.tar.gz
