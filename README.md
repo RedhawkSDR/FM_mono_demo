@@ -4,7 +4,7 @@ Actively Managed
  
 ## Description
 
-Contains the source and build script for the REDHAWK FM Mono Demo Waveform. 
+Contains the source and build script for the REDHAWK FM Mono Demo Waveform. This waveform processes the mono audio channel of broadcast FM Radio. 
 
 
 ## Active Tags and Branches
@@ -14,7 +14,7 @@ Contains the source and build script for the REDHAWK FM Mono Demo Waveform.
 |Branch: master | Last Release |2.0 |
 
 ## Build/Installation Instructions
-This is a wavform project and thus does not need to be built just installed into the SDRROOT/dom/waveforms directory. One way to do that is to open the project in the REDHAWK IDE and drag it into the Target SDR Folder.
+This is a wavform project and thus does not need to be built just installed into the $SDRROOT/dom/waveforms directory. One way to do that is to open the project in the REDHAWK IDE and drag it into the Target SDR Folder.
 
  
 ## REDHAWK Documentation
