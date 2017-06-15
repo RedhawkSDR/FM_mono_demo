@@ -28,7 +28,7 @@ Prefix: %{_prefix}
 
 Name: rh.FM_mono_demo
 Summary: Waveform rh.FM_mono_demo
-Version: 1.0.1
+Version: 1.0.2
 Release: 1%{?dist}
 License: LGPLv3+
 Group: REDHAWK/Waveforms
