@@ -186,4 +186,11 @@ with this program.  If not, see http://www.gnu.org/licenses/.
       <componentinstantiationref refid="ArbitraryRateResampler_1"/>
     </port>
   </externalports>
+  <externalproperties>
+    <property comprefid="fm_psd" propid="fftSize" externalpropid="fm_psd_fftSize"/>
+    <property comprefid="narrowband_psd" propid="fftSize" externalpropid="narrowband_psd_fftSize"/>
+    <property comprefid="ArbitraryRateResampler_1" propid="outputRate" externalpropid="audio_outputRate"/>
+    <property comprefid="narrowband_psd" propid="numAvg" externalpropid="narrowband_psd_numAvg"/>
+    <property comprefid="fm_psd" propid="numAvg" externalpropid="fm_psd_numAvg"/>
+  </externalproperties>
 </softwareassembly>
