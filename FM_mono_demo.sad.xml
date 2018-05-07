@@ -17,9 +17,10 @@ details.
 
 You should have received a copy of the GNU Lesser General Public License along
 with this program.  If not, see http://www.gnu.org/licenses/.
+
 -->
 <!DOCTYPE softwareassembly PUBLIC "-//JTRS//DTD SCA V2.2.2 SAD//EN" "softwareassembly.dtd">
-<softwareassembly id="DCE:4ab8b652-1a25-11e5-b285-3417ebc4aab5" name="rh.FM_mono_demo" version="1.0.2">
+<softwareassembly id="DCE:4ab8b652-1a25-11e5-b285-3417ebc4aab5" name="rh.FM_mono_demo" version="1.0.3">
   <componentfiles>
     <componentfile id="TuneFilterDecimate_95a97531-8b9a-4ee4-af1f-8eec61810e37" type="SPD">
       <localfile name="/components/rh/TuneFilterDecimate/TuneFilterDecimate.spd.xml"/>
