@@ -45,7 +45,7 @@ before_script:
     - /^.*-external$/
     - /^(\d+\.)?(\d+)?(\.\d+)$/
 
-package:el6:rh2.0:
+package-el6-rh2.0:
   variables:
     latest_version: 2.0-nightly
     release_version: $rh_20_release
@@ -54,7 +54,7 @@ package:el6:rh2.0:
     arch: x86_64
   <<: *package
 
-package:el6-i386:rh2.0:
+package-el6-i386-rh2.0:
   variables:
     latest_version: 2.0-nightly
     release_version: $rh_20_release
@@ -63,7 +63,7 @@ package:el6-i386:rh2.0:
     arch: i686
   <<: *package
 
-package:el7:rh2.0:
+package-el7-rh2.0:
   variables:
     latest_version: 2.0-nightly
     release_version: $rh_20_release
@@ -72,7 +72,7 @@ package:el7:rh2.0:
     arch: x86_64
   <<: *package
 
-package:el6:rh2.1:
+package-el6-rh2.1:
   variables:
     latest_version: 2.1-nightly
     release_version: $rh_21_release
@@ -81,7 +81,7 @@ package:el6:rh2.1:
     arch: x86_64
   <<: *package
 
-package:el6-i386:rh2.1:
+package-el6-i386-rh2.1:
   variables:
     latest_version: 2.1-nightly
     release_version: $rh_21_release
@@ -90,7 +90,7 @@ package:el6-i386:rh2.1:
     arch: i686
   <<: *package
 
-package:el7:rh2.1:
+package-el7-rh2.1:
   variables:
     latest_version: 2.1-nightly
     release_version: $rh_21_release
