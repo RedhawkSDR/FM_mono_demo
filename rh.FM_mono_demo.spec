@@ -26,7 +26,7 @@
 Name: rh.FM_mono_demo
 Summary: Waveform rh.FM_mono_demo
 Version: 1.0.3
-Release: 1%{?dist}
+Release: 2%{?dist}
 License: LGPLv3+
 Group: REDHAWK/Waveforms
 Source: %{name}-%{version}.tar.gz
